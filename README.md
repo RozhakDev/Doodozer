@@ -1,7 +1,7 @@
 # Doodozer CLI - Pengunduh Video DoodStream Cepat & Bersih via Command-Line.
 
 ![Dood-NG Logo](https://github.com/user-attachments/assets/c7b3cc44-c0bd-48c2-b0ce-4dc69bc97195)
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python" alt="Python 3.8+">
     <img src="https://img.shields.io/badge/Lisensi-MIT-green.svg" alt="Lisensi MIT">
     <img src="https://img.shields.io/badge/Status-Aktif-brightgreen" alt="Status Proyek">
